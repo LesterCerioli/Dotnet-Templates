@@ -1,0 +1,6 @@
+# Do not rename Parcelable classes as some of them are used across process and
+# therefore need to have the same name on both ends.
+-keepnames class android.support.wearable.** implements android.os.Parcelable
+
+# Do not rename ComplicationDrawable for XML inflation to work
+-keep class android.support.wearable.complications.rendering.ComplicationDrawable { *; }

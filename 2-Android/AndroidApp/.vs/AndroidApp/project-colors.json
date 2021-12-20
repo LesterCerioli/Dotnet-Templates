@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d48c49d-30cb-429f-a43a-5ce76941ff07": {
+      "ProjectGuid": "0d48c49d-30cb-429f-a43a-5ce76941ff07",
+      "DisplayName": "AndroidApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

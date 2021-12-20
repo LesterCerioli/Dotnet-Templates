@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/1fv4UlY/v2jCx7EcJQ7Cdsa5SI/pDCpdFS5AZ4u8p0AV2tdxX2vhumD3d+iEHLtSPRDqXdelFVkkCh4eWyqA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leste\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
