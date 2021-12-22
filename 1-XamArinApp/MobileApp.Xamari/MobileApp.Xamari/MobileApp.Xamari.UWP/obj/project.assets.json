@@ -9046,29 +9046,26 @@
   "packageFolders": {
     "C:\\Users\\leste\\.nuget\\packages\\": {},
     "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\MobileApp.Xamari.UWP.csproj",
+      "projectUniqueName": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\MobileApp.Xamari.UWP.csproj",
       "projectName": "MobileApp.Xamari.UWP",
-      "projectPath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\MobileApp.Xamari.UWP.csproj",
+      "projectPath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\MobileApp.Xamari.UWP.csproj",
       "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\obj\\",
+      "outputPath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
         "C:\\Users\\leste\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.16299"
@@ -9080,8 +9077,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj": {
-              "projectPath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj"
+            "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj": {
+              "projectPath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj"
             }
           }
         }

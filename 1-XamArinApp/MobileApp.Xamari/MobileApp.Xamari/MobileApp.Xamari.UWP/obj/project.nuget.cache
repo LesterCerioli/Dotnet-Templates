@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ze4ouXVR4OpIbvU1xPzOB0eb/nSkuhusP8PCmwPfOkLMQc3lSb8H1bvF0yHrVUECz2OVd5CeCTWSeTtXB9dGtw==",
+  "dgSpecHash": "4AVlrLy0VDInB6Qi4rVBUwXhhAWdfBwxCYzklWdypzVmra9U1qfaaz8KHu/xNVaAjfwQnn2kGrIQEInaULDKSQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\MobileApp.Xamari.UWP.csproj",
+  "projectFilePath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.UWP\\MobileApp.Xamari.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

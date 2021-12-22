@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/1fv4UlY/v2jCx7EcJQ7Cdsa5SI/pDCpdFS5AZ4u8p0AV2tdxX2vhumD3d+iEHLtSPRDqXdelFVkkCh4eWyqA==",
+  "dgSpecHash": "o+H+yM2DGc1NLPwcm8e6hkhSfc5W5d/5GjR3ozEsASOwfZOuIW4tzUtMp24fybDijOela/KeqOWxhfvA+o7INw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj",
+  "projectFilePath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leste\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\leste\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

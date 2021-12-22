@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CpGUyZGvTWQlhNkrL6VGPEoEmC9+7/gB3HbyLHcvUD9tv1/h8v4Qh0kWUhhkP91xfFsHmgi5FwEbJAtpFAkPjQ==",
+  "dgSpecHash": "qLFRM1fBJpDJPQbDgSoTbbAFhS4Clw7upPNsak/HaOG8UgwODl3FhlyX1Zfg4AYvof95De+b6ztGedh+pwB+EA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\leste\\reppos\\sources\\Local\\Templates-Mobile\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.Android\\MobileApp.Xamari.Android.csproj",
+  "projectFilePath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\1-XamArinApp\\MobileApp.Xamari\\MobileApp.Xamari\\MobileApp.Xamari.Android\\MobileApp.Xamari.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leste\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\leste\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
