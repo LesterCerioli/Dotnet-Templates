@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KraowlCBH5pNBJ90oY1pgF/9TapXiWDDU4Wg6qI/W4gaG4Bnl1HagTIpOdiE/g6lIR6OCLYoXSnZr8lgRM2n1g==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\4-Web\\4.1-NETCore\\BlazorServer\\BlazorServerApp\\BlazorServerApp\\BlazorServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leste\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

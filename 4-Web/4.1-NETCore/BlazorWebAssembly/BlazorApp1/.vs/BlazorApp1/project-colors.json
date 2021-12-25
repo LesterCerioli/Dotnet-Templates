@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a1aad2a-4861-487f-8ec3-a821fcff3d2e": {
+      "ProjectGuid": "7a1aad2a-4861-487f-8ec3-a821fcff3d2e",
+      "DisplayName": "BlazorApp1.Server",
+      "ColorIndex": 0
+    },
+    "a22ecaad-d090-44ce-ba7a-ba8acf6b7665": {
+      "ProjectGuid": "a22ecaad-d090-44ce-ba7a-ba8acf6b7665",
+      "DisplayName": "BlazorApp1.Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
