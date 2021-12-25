@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ca24942-da86-45c7-aebf-8b7f9ea6168b": {
+      "ProjectGuid": "1ca24942-da86-45c7-aebf-8b7f9ea6168b",
+      "DisplayName": "WCFService1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

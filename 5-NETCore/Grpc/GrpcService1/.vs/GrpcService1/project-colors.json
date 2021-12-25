@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fd008d8-6db0-4ea8-a6d7-4e46409955ba": {
+      "ProjectGuid": "7fd008d8-6db0-4ea8-a6d7-4e46409955ba",
+      "DisplayName": "GrpcService1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

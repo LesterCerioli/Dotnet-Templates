@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZyIBYJKysVPSMLAUPlJE/fuYXLOzdEk4Q2QCtgSUKdA/XJn4D7RvYQMK6Ds9q57FGa90k1c+j8Mv4inL9hRGA==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Lester\\Repos\\Github\\Personal\\Dotnet-Templates\\5-NETCore\\WebAPI\\WebAPIProject\\WebAPIProject\\WebAPIProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leste\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\leste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

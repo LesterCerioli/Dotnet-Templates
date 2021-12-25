@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36c8d6ae-e8db-406b-ac48-71883fde3c5c": {
+      "ProjectGuid": "36c8d6ae-e8db-406b-ac48-71883fde3c5c",
+      "DisplayName": "WorkflowService1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
