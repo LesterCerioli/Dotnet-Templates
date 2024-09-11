@@ -1,0 +1,432 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Presentation\\CleanArchitecture1.WebApi\\CleanArchitecture1.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj",
+        "projectName": "CleanArchitecture1.Application",
+        "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj",
+        "packagesPath": "C:\\Users\\debian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj",
+        "projectName": "CleanArchitecture1.Domain",
+        "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj",
+        "packagesPath": "C:\\Users\\debian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Identity\\CleanArchitecture1.Infrastructure.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Identity\\CleanArchitecture1.Infrastructure.Identity.csproj",
+        "projectName": "CleanArchitecture1.Infrastructure.Identity",
+        "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Identity\\CleanArchitecture1.Infrastructure.Identity.csproj",
+        "packagesPath": "C:\\Users\\debian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\CleanArchitecture1.Infrastructure.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\CleanArchitecture1.Infrastructure.Resources.csproj",
+        "projectName": "CleanArchitecture1.Infrastructure.Resources",
+        "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\CleanArchitecture1.Infrastructure.Resources.csproj",
+        "packagesPath": "C:\\Users\\debian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Presentation\\CleanArchitecture1.WebApi\\CleanArchitecture1.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Presentation\\CleanArchitecture1.WebApi\\CleanArchitecture1.WebApi.csproj",
+        "projectName": "CleanArchitecture1.WebApi",
+        "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Presentation\\CleanArchitecture1.WebApi\\CleanArchitecture1.WebApi.csproj",
+        "packagesPath": "C:\\Users\\debian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Presentation\\CleanArchitecture1.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Core\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj"
+              },
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.FileManager\\CleanArchitecture1.Infrastructure.FileManager.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.FileManager\\CleanArchitecture1.Infrastructure.FileManager.csproj"
+              },
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Identity\\CleanArchitecture1.Infrastructure.Identity.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Identity\\CleanArchitecture1.Infrastructure.Identity.csproj"
+              },
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Persistence\\CleanArchitecture1.Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Persistence\\CleanArchitecture1.Infrastructure.Persistence.csproj"
+              },
+              "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\CleanArchitecture1.Infrastructure.Resources.csproj": {
+                "projectPath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\CleanArchitecture1.Infrastructure.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Enrichers.ClientInfo": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

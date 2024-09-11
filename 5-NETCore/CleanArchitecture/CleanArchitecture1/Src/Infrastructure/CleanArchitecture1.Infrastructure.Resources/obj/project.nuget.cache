@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEfTnWG40gU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debian\\Documents\\repositories\\github\\Dotnet-Templates\\5-NETCore\\CleanArchitecture\\CleanArchitecture1\\Src\\Infrastructure\\CleanArchitecture1.Infrastructure.Resources\\CleanArchitecture1.Infrastructure.Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debian\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\debian\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "C:\\Users\\debian\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\debian\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\debian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
